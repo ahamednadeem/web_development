@@ -1,1 +1,12 @@
-[{"name":"ahamed","email":"kaed","mobile_number":"883"},{"name":"qq","email":"sf","mobile_number":"324"},{"name":"aha","email":"afa","mobile_number":"241"}]
+[
+  {
+    "name": "Ahamed",
+    "email": "ahamed@mobicip.com",
+    "mobile_number": "9498498159"
+  },
+  {
+    "name": "sathappan",
+    "email": "12",
+    "mobile_number": "98876"
+  }
+]
