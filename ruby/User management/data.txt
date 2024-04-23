@@ -1,0 +1,12 @@
+[
+  {
+    "name": "ahamed",
+    "email": "mobi",
+    "mobile_number": "21312"
+  },
+  {
+    "name": "Ahamed nadeem",
+    "email": "ahamed@mobi",
+    "mobile_number": "786123"
+  }
+]
